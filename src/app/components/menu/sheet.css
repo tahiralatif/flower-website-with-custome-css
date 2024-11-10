@@ -1,0 +1,18 @@
+/* Sheet.module.css */
+.sheetContainer {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .sheetContent {
+    background-color: white;
+    border-radius: 8px;
+    padding: 1.5rem;
+    max-width: 500px;
+    width: 100%;
+  }
+  
